@@ -10,7 +10,6 @@
   
 ## Tech stack
 
-  - PostgreSQL
   - Python 3
   - SQLAlchemy 
   - Flask:
@@ -58,7 +57,7 @@
   - $ python3 seed.py
 6. Start the server
   - $ python3 server.py
-7. follow the link and enjoy! 
+7. follow the link and enjoy!
 
   
 
