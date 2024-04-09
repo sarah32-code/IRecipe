@@ -28,27 +28,23 @@
   </tr>
 
     <tr class="info">
-    <td>Name</td>
-    <td>Campus ID</td>
-    <td>Email</td>
+    <td>Andrew O'Berry</td>
+    <td>aoberry1</td>
+    <td>aoberry1@student.gsu.edu</td>
   </tr>
 
   <tr>
-    <td>Name</td>
-    <td>Campus ID</td>
-    <td>Email</td>
+    <td>Amanda Khor</td>
+    <td>akhor2</td>
+    <td>akhor2@student.gsu.edu</td>
   </tr>
 
-  <tr class="success">
-    <td>Name</td>
-    <td>Campus ID</td>
-    <td>Email</td>
+  <tr class="info">
+    <td>Thuan Nguyen</td>
+    <td>tnguyen591</td>
+    <td>tnguyen591@student.gsu.edu</td>
   </tr>
-  <tr>
-    <td>Name</td>
-    <td>Campus ID</td>
-    <td>Email</td>
-  </tr>
+
   
     </tbody>
   </table>
